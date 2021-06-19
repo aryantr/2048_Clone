@@ -1,5 +1,4 @@
-# 2048_Clone
-A clone for 2048 android game
+# 2048 - CLONE
+This is a clone of the android game 2048
 
-Play in web using https://aaryyn.itch.io/2048-clone
-use password : visit2048
+Visit : https://aaryyn.itch.io/2048-clone
